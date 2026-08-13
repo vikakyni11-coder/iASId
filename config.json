@@ -1,0 +1,21 @@
+{
+  "app": {
+    "name": "iASId",
+    "version": "0.3.0",
+    "log_level": "info",
+    "colors": true
+  },
+  "excuses": {
+    "default_count": 3,
+    "prefer_weights": true,
+    "contexts": ["работа", "учеба", "спорт"]
+  },
+  "astrology": {
+    "horoscopes_per_day": 1,
+    "sarcasm_level": "high"
+  },
+  "randomizer": {
+    "password_length": 16,
+    "dice_sides": 6
+  }
+}
